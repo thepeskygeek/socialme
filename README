@@ -1,0 +1,21 @@
+|----|     /--/     -------
+|\  /| Soc<ialMe    |-----|
+| \/ |     \___     | App |
+------(poke me!)\   -------
+
+...  . .   .  .     ..  . .
+. .  ...  ... . .  .  . .. .
+...    .   .  .. . .  . .  .
+.    ...   .  .  .  ..  .  .
+
+          power
+
+SocialMe is a social network framework. Importing socialme.* will import 
+*EVERYTHING* and should help you write your code. (But included is a 
+simple API example under the example/ directory,)
+
+What's needed:
+* Python :)
+* setuptools for installing (not needed!)
+* web.py
+* Time :)
